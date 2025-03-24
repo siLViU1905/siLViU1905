@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siLViU1905
 - 👀 I’m interested in C++ OOP
-- 🌱 I’m currently learning C++ clases, templates and SFML 
+- 🌱 I’m currently learning C++ clases, templates, SFML and OpenGL 
 
 <!---
 siLViU1905/siLViU1905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
